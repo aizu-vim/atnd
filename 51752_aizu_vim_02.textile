@@ -52,5 +52,4 @@ h3. ハッカソン中に使用するエディタはVim縛り(╹◡╹)（当�
 h2. 変更点や追記があれば "@mopp_jp":https://twitter.com/Mopp_jp がTwitterで呟きます。
 
 h3. 運営
-"@sh19910711":https://twitter.com/sh19910711
-"@mopp_jp":https://twitter.com/Mopp_jp
+https://github.com/orgs/aizu-vim/members
